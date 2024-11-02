@@ -40,8 +40,17 @@ By the end of this project, you will be able to:
 
 ---
 
+### Google Colab (best method for non-programmers)
+
+To get started, you can open the notebook directly in Google Colab by clicking the link below:
+
+[Open in Google Colab](https://colab.research.google.com/drive/1HWx-qB7e-fnu_hGiUNJYEb41mCM1Nzu_)
+
 ### Installation and Setup
 
+This will allow you to run the notebook in the cloud, with no setup required on your computer. Just make sure to be logged into your Google account.
+
+Alternatively, if you prefer to run the notebook locally, follow the instructions below:
 To get started with this project, you’ll need to set up a Python environment with the necessary libraries. Here’s a step-by-step guide:
 
 1. **Clone this repository**:
