@@ -97,7 +97,7 @@ This project includes a series of Jupyter notebooks structured for a progressive
    - Date
    - Calories (Breakfast, Lunch, Dinner, and Snacks)
    - Sleep Score
-   - Pee Times (for estimating hydration)
+   - P Times (for estimating hydration)
    - Health Score (calculated from hydration and sleep)
 
 ### Modules and Code Structure
